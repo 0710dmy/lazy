@@ -1,0 +1,12 @@
+/**{ margin:0; padding:0;}
+body{ font:12px "宋体";}*/
+a{ text-decoration: none;}
+img{ border:none;}
+ul,li{ list-style:none;}
+.left{ float:left;}
+.right{ float:right;}
+
+.clearfix:after{ content:"."; display:block; clear:both; height:0; overflow:hidden;}
+.clearfix{ zoom:1;}
+
+/*.wrapper{ width:1170px; margin:0 auto;/**/}*/

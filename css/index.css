@@ -1,0 +1,80 @@
+.navbar-fixed-top{
+	background: #fff;
+}
+#bs-example-navbar-collapse-1{
+	margin-top: 15px;
+	float:right;
+}
+.zhanwei{
+	width: 100%;
+	height: 70px;
+}
+.banner-in1 img{
+	width: 100%;
+}
+.tong{
+	width: 100%;
+	text-align: center;
+}
+.tong h4{
+	margin: 10px;
+}
+.tong h4 img{
+	padding: 10px;
+}
+.xue div h5{
+	text-align: left;
+	padding-left: 14px;
+	line-height: 24px;
+	color: #fff;
+	background: url(../img/back.jpg) no-repeat;
+	width: 102px;
+	height: 24px;
+}
+.xue div p{
+	line-height: 24px;
+}
+.xue div ul li{
+	line-height: 24px;
+}
+.xue div li a{
+	display: inline-block;
+	color: #000;
+	text-align: left;
+}
+.xue div li span{
+	display: inline-block;
+	text-align:right;
+}
+
+.chi p a{
+	line-height: 24px;
+	color: #000;
+}
+.chan .con .coo{
+	padding-bottom: 8px;
+}
+.end{
+	margin-top: 20px;
+	background: #dfdfdf;
+	color: #a4a0a0;
+	text-align: center;
+	margin-bottom: 0;
+	padding: 20px;
+}
+@media only screen and (min-width: 1170px) {
+	.tong{
+		width: 1170px;
+		margin: 0 auto;
+	}
+}
+@media only screen and (max-width: 640px) {
+	.tro div img{
+		margin: 4px;
+	}
+	.img{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+}
